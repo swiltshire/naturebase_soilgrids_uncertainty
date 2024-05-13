@@ -1,3 +1,8 @@
+# Pickle files, pictures, and rasters
+*.p
+*.png
+*.tif
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
